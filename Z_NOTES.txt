@@ -1,0 +1,9 @@
+﻿This line was put in the ItemGroup of the project file
+
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.5" PrivateAssets="all" />
+
+    ==========================================================
+    update links to both versions
+    need app logo
+    create repo
+    need readme on github

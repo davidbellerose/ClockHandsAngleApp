@@ -4,6 +4,4 @@
 
     ==========================================================
     update links to both versions
-    need app logo
-    create repo
     need readme on github
